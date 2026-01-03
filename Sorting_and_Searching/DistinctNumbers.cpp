@@ -14,4 +14,5 @@ int main(){
         n--;
     }
     cout<<s.size()<<"\n";
+    return 0;
 }
