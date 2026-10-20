@@ -1,4 +1,2 @@
 # MyCSES
-My solutions for [CSES problem set](https://cses.fi/problemset/)
-
-
+My solutions for [CSES problem set](https://cses.fi/problemset/), no AI used.
